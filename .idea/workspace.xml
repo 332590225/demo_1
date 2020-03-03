@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70be9245-8956-4fda-881d-5e5d4002c882" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/io_netty_netty_4_0_0_Alpha8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GProjects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583247916779</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init commit">
+      <created>1583248582611</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583248582611</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -127,14 +123,14 @@
       <screen x="0" y="0" width="1855" height="1080" />
     </state>
     <state x="1130" y="296" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1855.1080@0.0.1855.1080" timestamp="1578376335927" />
-    <state x="562" y="133" key="CommitChangelistDialog2" timestamp="1583247911416">
+    <state x="562" y="133" key="CommitChangelistDialog2" timestamp="1583248579409">
       <screen x="0" y="0" width="1855" height="1080" />
     </state>
-    <state x="562" y="133" key="CommitChangelistDialog2/0.0.1855.1080@0.0.1855.1080" timestamp="1583247911416" />
-    <state x="1059" y="301" key="FileChooserDialogImpl" timestamp="1583247726746">
+    <state x="562" y="133" key="CommitChangelistDialog2/0.0.1855.1080@0.0.1855.1080" timestamp="1583248579409" />
+    <state x="1059" y="301" key="FileChooserDialogImpl" timestamp="1583249120237">
       <screen x="0" y="0" width="1855" height="1080" />
     </state>
-    <state x="1059" y="301" key="FileChooserDialogImpl/0.0.1855.1080@0.0.1855.1080" timestamp="1583247726746" />
+    <state x="1059" y="301" key="FileChooserDialogImpl/0.0.1855.1080@0.0.1855.1080" timestamp="1583249120237" />
     <state width="1812" height="295" key="GridCell.Tab.0.bottom" timestamp="1578457597842">
       <screen x="0" y="0" width="1855" height="1080" />
     </state>
