@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70be9245-8956-4fda-881d-5e5d4002c882" name="Default Changelist" comment="">
+    <list default="true" id="70be9245-8956-4fda-881d-5e5d4002c882" name="Default Changelist" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,22 +125,37 @@
       <option name="project" value="LOCAL" />
       <updated>1583249220078</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test">
+      <created>1583249340110</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583249340110</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test">
+      <created>1583249425211</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1583249425211</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1130" y="296" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1578376335927">
       <screen x="0" y="0" width="1855" height="1080" />
     </state>
     <state x="1130" y="296" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1855.1080@0.0.1855.1080" timestamp="1578376335927" />
-    <state x="562" y="133" key="CommitChangelistDialog2" timestamp="1583249361348">
+    <state x="562" y="133" key="CommitChangelistDialog2" timestamp="1583249599619">
       <screen x="0" y="0" width="1855" height="1080" />
     </state>
-    <state x="562" y="133" key="CommitChangelistDialog2/0.0.1855.1080@0.0.1855.1080" timestamp="1583249361348" />
+    <state x="562" y="133" key="CommitChangelistDialog2/0.0.1855.1080@0.0.1855.1080" timestamp="1583249599619" />
     <state x="1059" y="301" key="FileChooserDialogImpl" timestamp="1583249120237">
       <screen x="0" y="0" width="1855" height="1080" />
     </state>
@@ -170,14 +184,14 @@
       <screen x="0" y="0" width="1855" height="1080" />
     </state>
     <state x="780" y="188" key="SettingsEditor/0.0.1855.1080@0.0.1855.1080" timestamp="1583247014777" />
-    <state x="519" y="273" key="Vcs.Push.Dialog.v2" timestamp="1583249252590">
+    <state x="519" y="273" key="Vcs.Push.Dialog.v2" timestamp="1583249433793">
       <screen x="0" y="0" width="1855" height="1080" />
     </state>
-    <state x="519" y="273" key="Vcs.Push.Dialog.v2/0.0.1855.1080@0.0.1855.1080" timestamp="1583249252590" />
-    <state x="752" y="405" key="com.intellij.ide.util.TipDialog" timestamp="1583244495705">
+    <state x="519" y="273" key="Vcs.Push.Dialog.v2/0.0.1855.1080@0.0.1855.1080" timestamp="1583249433793" />
+    <state x="752" y="405" key="com.intellij.ide.util.TipDialog" timestamp="1583414327786">
       <screen x="0" y="0" width="1855" height="1080" />
     </state>
-    <state x="752" y="405" key="com.intellij.ide.util.TipDialog/0.0.1855.1080@0.0.1855.1080" timestamp="1583244495705" />
+    <state x="752" y="405" key="com.intellij.ide.util.TipDialog/0.0.1855.1080@0.0.1855.1080" timestamp="1583414327786" />
     <state x="998" y="507" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1578376262880">
       <screen x="0" y="0" width="1855" height="1080" />
     </state>
@@ -186,9 +200,9 @@
       <screen x="0" y="0" width="1855" height="1080" />
     </state>
     <state x="604" y="139" width="647" height="801" key="find.popup/0.0.1855.1080@0.0.1855.1080" timestamp="1578457554379" />
-    <state x="446" y="282" key="new project wizard" timestamp="1578457333880">
+    <state x="446" y="282" key="new project wizard" timestamp="1583414577488">
       <screen x="0" y="0" width="1855" height="1080" />
     </state>
-    <state x="446" y="282" key="new project wizard/0.0.1855.1080@0.0.1855.1080" timestamp="1578457333880" />
+    <state x="446" y="282" key="new project wizard/0.0.1855.1080@0.0.1855.1080" timestamp="1583414577488" />
   </component>
 </project>
